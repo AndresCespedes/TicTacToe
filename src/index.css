@@ -129,3 +129,9 @@ body {
   cursor: pointer;
   font-size: 48px;
 }
+
+.score{
+  display: block;
+  margin: 50px auto;
+  width: fit-content;
+}
